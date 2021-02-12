@@ -1,3 +1,0 @@
-theme: jekyll-theme-slate
-title: bignum - c++ for big number computation (arbitrary-precision arithmetic)
-description: a c++ implementation of big number arithmetic ( bignum & bigint ), perform computation on very large numbers, big integers, c++ beyond 20 digits unsigned long long int.
